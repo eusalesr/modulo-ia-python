@@ -1,4 +1,4 @@
-impor´t csv
+import csv
 
 det criar_csv(nome_arquivo):
     dados - [
